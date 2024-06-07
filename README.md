@@ -1,12 +1,10 @@
-# Data Analytics - BTech Notes
+# Data Analytics - BTech Notes 📊
 
 [Unit 1: Introduction to Big Data](#unit-1-introduction-to-big-data)  
 [Unit 2: Data Analysis](#unit-2-data-analysis)  
 [Unit 3: Mining Data Streams](#unit-3-mining-data-streams)  
 [Unit 4: Frequent Itemsets and Clustering](#unit-4-frequent-itemsets-and-clustering)  
 [Unit 5: Frameworks and Visualization](#unit-5-frameworks-and-visualization)  
-
-
 
 # [Unit 1: Introduction to Big Data](#unit-1-introduction-to-big-data) 
 **Definition**:
@@ -34,7 +32,7 @@
 
 ---
 
-## Challenges of Conventional Systems(refer to traditional data management and processing systems that were primarily designed to handle structured data with relatively smaller volumes compared to modern big data environments)
+## Challenges of Conventional Systems 🛑 (refer to traditional data management and processing systems that were primarily designed to handle structured data with relatively smaller volumes compared to modern big data environments)
 
 **Scalability**:
 - Limited ability to handle growing data volumes.
@@ -59,7 +57,7 @@
 
 ---
 
-## Web Data
+## Web Data 🌐
 
 **Definition**:
 - Data generated from web activities.
@@ -89,7 +87,7 @@
 
 ---
 
-## Evolution of Analytic Scalability
+## Evolution of Analytic Scalability 📈
 
 **Key Points**:
 - **From Gigabytes to Terabytes and Beyond**:
@@ -112,7 +110,7 @@
 
 ---
 
-## Analytic Processes and Tools
+## Analytic Processes and Tools 🛠️
 
 **Data Collection**:
 - Gathering data from various sources.
@@ -138,7 +136,7 @@
 
 ---
 
-## Analysis vs Reporting
+## Analysis vs Reporting 📈📊
 
 **Analysis**:
 - In-depth examination of data.
@@ -160,7 +158,7 @@
 
 ---
 
-## Modern Data Analytic Tools
+## Modern Data Analytic Tools ⚙️
 
 **Scalability**:
 - Designed to handle large datasets efficiently.
@@ -189,7 +187,7 @@
 
 ---
 
-## Statistical Concepts
+## Statistical Concepts 📊
 
 ### Sampling Distributions
 
@@ -233,6 +231,7 @@
 
 **Definition**:
 - Discrepancy between actual values and predicted values by a model.
+
 
 **Key Points**:
 - Mean Absolute Error (MAE).
