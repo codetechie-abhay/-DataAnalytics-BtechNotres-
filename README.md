@@ -1,4 +1,4 @@
-# Data Analytics - BTech Notes 📊
+# Data Analytics - BTech Notes by Abhay Nautiyal📊
 
 <img src="DataAnalytics-Syllabus.jpg" alt="Data Analytics Syllabus" width="400"/>
 
