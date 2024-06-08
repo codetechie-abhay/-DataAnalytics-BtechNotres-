@@ -1,6 +1,6 @@
-# Data Analytics - BTech Notes by Abhay Nautiyal 📊
+# Data Analytics - BTech Notes 📊
 
-![DataAnalytics-Syllabus](DataAnalytics-Syllabus.jpg)
+<img src="DataAnalytics-Syllabus.jpg" alt="Data Analytics Syllabus" width="400"/>
 
 ## Table of Contents
 
@@ -9,6 +9,7 @@
 - [Unit 3: Mining Data Streams](#unit-3-mining-data-streams)
 - [Unit 4: Frequent Itemsets and Clustering](#unit-4-frequent-itemsets-and-clustering)
 - [Unit 5: Frameworks and Visualization](#unit-5-frameworks-and-visualization)
+
 
 
 # [Unit 1: Introduction to Big Data](#unit-1-introduction-to-big-data) 
